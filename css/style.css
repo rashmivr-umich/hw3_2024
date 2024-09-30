@@ -149,7 +149,7 @@ first div in the grid  and place it in the grid. */
 
 .container div:first-child {
   grid-column: 1 / -1;
-  background-image: url("/images/header.jpg");
+  background-image: url("../images/header.jpg");
   /* Code for parallax effect from W3 schools: https://www.w3schools.com/howto/howto_css_parallax.asp */
   background-attachment: fixed;
   background-position: center;
